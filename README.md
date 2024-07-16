@@ -1,16 +1,18 @@
-# ecommerce_app
 
-A new Flutter project.
+# Ecommerce App
 
-## Getting Started
+Technologies used: FLutter, Bloc 
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add to cart
+- Add to wishlist
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2024-07-16 093643](https://github.com/user-attachments/assets/181a8623-7efb-40d4-932a-c1674ccc2b6b)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-07-16 093710](https://github.com/user-attachments/assets/9ed44381-0ae3-4dc7-9f3b-f1734e766d7b)
+
+![Screenshot 2024-07-16 093729](https://github.com/user-attachments/assets/45a077f4-c80e-47a2-8a27-8ac55adaed44)
+
+
